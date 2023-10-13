@@ -94,8 +94,8 @@ module.exports = {
             '--no-sandbox',
             //'--ignore-certificate-errors',
             //'--allow-insecure-localhost',
-            '--headless'
-            ,'--disable-dev-shm-usage'
+            '--headless',
+            '--disable-dev-shm-usage'
           ]
         }
       },
